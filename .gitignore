@@ -1,0 +1,16 @@
+/.tools/
+/archive/
+/work/
+/dist/
+/outputs/*
+!/outputs/Toggle-PluggedIn-ScreenTimeout.ps1
+!/outputs/Run-ScreenTimeoutToggle-Hidden.vbs
+!/outputs/screen-mode-rounded.ico
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.log
+hotkey-status.json
